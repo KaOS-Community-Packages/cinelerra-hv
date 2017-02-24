@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Cinelerra
+Comment=Video Editor
+Comment=Create and edit videos
+Exec=cinelerra
+Terminal=false
+Type=Application
+Icon=cinelerra
+Categories=AudioVideo;Video;AudioVideoEditing;
